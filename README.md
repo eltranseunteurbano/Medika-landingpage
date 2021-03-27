@@ -9,4 +9,5 @@ Este proyecto fue desarrollado con [React](https://github.com/facebook/create-re
 - [Puedes ver el video del proceso de diseño aquí](https://www.youtube.com/watch?v=xoixY47jqtc&t=3s)
 - Puedes ver el video del proceso de desarrollo aquí 
 
-### Puedes contactarme a través de [Linkedin](https://www.linkedin.com/in/eltranseunteurbano)
+***
+Puedes contactarme a través de [Linkedin](https://www.linkedin.com/in/eltranseunteurbano)
