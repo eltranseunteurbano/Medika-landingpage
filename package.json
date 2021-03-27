@@ -1,6 +1,10 @@
 {
   "name": "medika",
-  "author": {"name": "Jaime Burbano", "email": "hablemos@jaimeburbano.com", "url": "https://www.linkedin.com/in/eltranseunteurbano"},
+  "author": {
+    "name": "Jaime Burbano",
+    "email": "hablemos@jaimeburbano.com",
+    "url": "https://www.linkedin.com/in/eltranseunteurbano"
+  },
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
@@ -10,6 +14,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "classnames": "^2.2.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",

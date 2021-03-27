@@ -1,10 +1,16 @@
+import { ThemeProvider } from '@material-ui/styles';
+import NavBar from './components/NavBar';
 import Home from './containers/Home';
+import GlobalCss from './styles/GlobalCss';
+import theme from './styles/theme';
 
 function App() {
 	return (
-		<div className='App'>
+		<ThemeProvider theme={theme}>
+			<GlobalCss />
+			<NavBar />
 			<Home />
-		</div>
+		</ThemeProvider>
 	);
 }
 
