@@ -7,7 +7,7 @@ Medika es un pequeño ejercicio de maquetación web desarrollada con React Js y 
 Este proyecto fue desarrollado con [React](https://github.com/facebook/create-react-app) y [Material UI](https://material-ui.com/es/).
 
 - [Puedes ver el video del proceso de diseño aquí](https://www.youtube.com/watch?v=xoixY47jqtc&t=3s)
-- Puedes ver el video del proceso de desarrollo aquí 
+- [Puedes ver el video del proceso de desarrollo aquí ](https://www.youtube.com/watch?v=BwzBqvRRSRQ&t)
 
 ***
 Puedes contactarme a través de [Linkedin](https://www.linkedin.com/in/eltranseunteurbano)
